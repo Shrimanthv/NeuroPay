@@ -7,4 +7,5 @@ seaborn
 tensorboard
 streamlit
 flask
+gunicorn
 
