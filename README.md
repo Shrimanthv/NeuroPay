@@ -16,8 +16,6 @@
 
 
 ## Demo
-Link: https://aerofare-sdnre5xmvhrukj4nm7yftm.streamlit.app/ 
-
 ![](https://github.com/Shrimanthv/NeuroPay/blob/main/Screenshot%202025-05-25%20165937.png?raw=true)
 
 ![](https://github.com/Shrimanthv/NeuroPay/blob/main/Screenshot%202025-05-25%20170030.png?raw=true)
