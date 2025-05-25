@@ -23,7 +23,7 @@ with open('scaler.pkl','rb') as file:
 
 ##streamlit app
 
-st.title("Estimated Salary Prediction")
+st.title("NeuroPay--Neural Salary Intelligence")
 
 # User input
 geography = st.selectbox('Geography', label_encoder_geo.categories_[0])
